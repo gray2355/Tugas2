@@ -13,8 +13,8 @@ import Checkout from "./pages/frontpages/Checkout";
 // ADMIN PAGE
 // ==============================
 import AdminLayout from "./layouts/AdminLayout";
-import AdminDashboard from "./pages/adminpages/AdminDashboard";
-import AboutPage from "./pages/adminpages/AboutPage";
+import AdminDashboard from "./pages/AdminPages/AdminDashboard";
+import AboutPage from "./pages/AdminPages/AboutPage";
 
 export default function App() {
   return (
